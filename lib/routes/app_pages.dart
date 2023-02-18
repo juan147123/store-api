@@ -14,7 +14,7 @@ class AppPages {
     // LOGIN
     GetPage(
       name: AppRoutes.splash,
-      page: () => SplashPage(),
+      page: () => splashPage(),
       transition: _transition,
     ),
 
