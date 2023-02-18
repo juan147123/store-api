@@ -11,7 +11,7 @@ class AppPages {
 
 
   static final routes = [
-    // LOGIN
+    // splash
     GetPage(
       name: AppRoutes.splash,
       page: () => splashPage(),
